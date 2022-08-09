@@ -13,7 +13,7 @@ I WANT a super rad game with an engaging story and leaderboard to track best run
 SO THAT I can be entertained  
 
 ## How to Use
-1. Open webapp at (link to deployed app on Heroku)
+1. Open webapp at ([link to deployed app on Heroku](https://rerun-game.herokuapp.com/))
 2. Login or sign up using email, a unique username, and a password of at least 8 characters.  
 3. Read the game prompts and use the buttons to select your choice of action or movement through the game.
 4. Be careful! Some wrong moves will cost you precious time!
